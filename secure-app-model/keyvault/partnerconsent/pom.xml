@@ -9,7 +9,7 @@
 	<name>partnerconsent</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.2.3.RELEASE</spring.version>
+		<spring.version>5.3.38</spring.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -67,7 +67,7 @@
 				<version>3.0</version>
 				<configuration>
 					<compilerArguments>
-						<Xlint:unchecked />
+						<Xlint:unchecked/>
 					</compilerArguments>
 					<source>1.8</source>
 					<target>1.8</target>
